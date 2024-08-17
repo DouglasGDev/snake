@@ -1,0 +1,10 @@
+C:\Users\douglas.groff\Desktop\rust\snake\snake_game\target\release\deps\liblock_api-711ed0bbfd22e6f6.rmeta: C:\Users\douglas.groff\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\lib.rs C:\Users\douglas.groff\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\mutex.rs C:\Users\douglas.groff\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\remutex.rs C:\Users\douglas.groff\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\rwlock.rs
+
+C:\Users\douglas.groff\Desktop\rust\snake\snake_game\target\release\deps\liblock_api-711ed0bbfd22e6f6.rlib: C:\Users\douglas.groff\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\lib.rs C:\Users\douglas.groff\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\mutex.rs C:\Users\douglas.groff\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\remutex.rs C:\Users\douglas.groff\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\rwlock.rs
+
+C:\Users\douglas.groff\Desktop\rust\snake\snake_game\target\release\deps\lock_api-711ed0bbfd22e6f6.d: C:\Users\douglas.groff\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\lib.rs C:\Users\douglas.groff\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\mutex.rs C:\Users\douglas.groff\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\remutex.rs C:\Users\douglas.groff\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\rwlock.rs
+
+C:\Users\douglas.groff\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\lib.rs:
+C:\Users\douglas.groff\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\mutex.rs:
+C:\Users\douglas.groff\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\remutex.rs:
+C:\Users\douglas.groff\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\rwlock.rs:

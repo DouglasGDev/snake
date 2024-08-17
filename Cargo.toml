@@ -1,0 +1,9 @@
+[package]
+name = "snake_game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.28.1"  # Para manipulação do terminal
+rand = "0.8"        # Para geração de números aleatórios
+
